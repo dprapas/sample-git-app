@@ -9,5 +9,6 @@ public class App {
 
         System.out.println("Hello World!");
         System.out.println("User Story One");
+        System.out.println( "1st commit User Story 2" );
     }
 }

@@ -12,5 +12,6 @@ public class App {
         System.out.println( "1st commit User Story 2" );
         System.out.println( "1st commit User Story4" );
         System.out.println( "2nd commit User Story4" );
+        System.out.println( "3rd commit User Story4" );
     }
 }

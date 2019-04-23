@@ -9,5 +9,6 @@ public class App {
 
         System.out.println("1st commit user-story5");
         System.out.println("2nd commit user-story5");
+        System.out.println("3rd commit user-story5");
     }
 }

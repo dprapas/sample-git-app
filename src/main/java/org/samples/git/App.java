@@ -6,11 +6,6 @@ package org.samples.git;
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("1st commit develop");
-        System.out.println("2nd commit develop");
-        System.out.println("1st commit user-story5");
-        System.out.println("2nd commit user-story5");
-        System.out.println("3rd commit user-story5");
-        System.out.println("4th commit user-story5");
+        
     }
 }

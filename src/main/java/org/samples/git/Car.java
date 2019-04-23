@@ -2,7 +2,7 @@ package org.samples.git;
 
 public class Car {
 
-    private final String name;
+    private String name;
 
     public Car(String name) {
         this.name = name;
@@ -10,5 +10,9 @@ public class Car {
 
     public String getName() {
         return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }
